@@ -6,8 +6,6 @@ to be used in the model, the view, and the controller. As these are spread
 across multiple modules, we separate the constants into their own module. This
 allows all modules to access them.
 
-# YOUR NAME(S) AND NETID(S) HERE
-# DATE COMPLETED HERE
 """
 import introcs
 import sys
